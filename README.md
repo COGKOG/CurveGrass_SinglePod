@@ -1,4 +1,4 @@
-# Graphics &amp; Visualisation Project: Single Curve Grass Pod
+# Graphics &amp; Visualisation Project: Grass Modeling
 Project is based off Assignment 3 by adding a new system, GrassSystem.\
 There are 3 types of grass.
 1. Single Pod containing 5 curved leaf blades.
